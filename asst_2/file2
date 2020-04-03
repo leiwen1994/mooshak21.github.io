@@ -1,1 +1,7 @@
-hello world
+images =[];
+images.forEach(image =>{
+loop;
+};
+onClick.function(){
+//dark/light mode
+}
